@@ -277,12 +277,19 @@ export default function VetEmCasa() {
               <div className="relative group">
                 <div className="absolute -inset-3 bg-gradient-to-r from-emerald-400 via-teal-400 to-cyan-400 rounded-3xl blur-xl opacity-30 group-hover:opacity-50 transition-opacity duration-500 animate-pulse"></div>
                 <Image
-                  src="/images/raquel-1.jpeg"
+                  src="/images/placeholder.svg"
                   alt="Dra. Raquel Aguiar atendendo pet"
                   width={400}
                   height={480}
                   className="relative rounded-3xl shadow-2xl object-cover w-full h-56 sm:h-72 md:h-80 lg:h-96 transform group-hover:scale-105 transition-transform duration-500"
                 />
+                {/* <Image
+                  src="/images/raquel-1.jpeg"
+                  alt="Dra. Raquel Aguiar atendendo pet"
+                  width={400}
+                  height={480}
+                  className="relative rounded-3xl shadow-2xl object-cover w-full h-56 sm:h-72 md:h-80 lg:h-96 transform group-hover:scale-105 transition-transform duration-500"
+                /> */}
                 <div className="absolute -bottom-3 -left-3 bg-gradient-to-r from-white to-emerald-50 p-3 rounded-2xl shadow-2xl border-2 border-emerald-200 transform hover:scale-105 transition-transform duration-300 animate-float">
                   <div className="flex items-center space-x-3">
                     <div className="bg-gradient-to-r from-emerald-100 to-teal-100 p-2 rounded-full animate-pulse">
@@ -424,12 +431,19 @@ export default function VetEmCasa() {
             <div className="relative group order-2 lg:order-1">
               <div className="absolute -inset-3 bg-gradient-to-r from-emerald-400 via-teal-400 to-cyan-400 rounded-3xl blur-xl opacity-20 group-hover:opacity-40 transition-opacity duration-500"></div>
               <Image
-                src="/images/raquel-2.jpeg"
+                src="/images/placeholder.svg"
                 alt="Dra. Raquel Aguiar - Veterinária"
                 width={350}
                 height={420}
                 className="relative rounded-3xl shadow-2xl object-cover w-full h-56 sm:h-72 md:h-80 lg:h-96 transform group-hover:scale-105 transition-transform duration-500"
               />
+              {/* <Image
+                src="/images/raquel-2.jpeg"
+                alt="Dra. Raquel Aguiar - Veterinária"
+                width={350}
+                height={420}
+                className="relative rounded-3xl shadow-2xl object-cover w-full h-56 sm:h-72 md:h-80 lg:h-96 transform group-hover:scale-105 transition-transform duration-500"
+              /> */}
               <div className="absolute -top-3 -right-3 bg-gradient-to-r from-emerald-500 to-teal-500 text-white p-3 rounded-full shadow-lg animate-bounce">
                 <Shield className="h-5 w-5 sm:h-6 sm:w-6" />
               </div>
@@ -865,12 +879,19 @@ export default function VetEmCasa() {
               <div className="relative group">
                 <div className="absolute -inset-3 bg-gradient-to-r from-emerald-400 via-teal-400 to-cyan-400 rounded-3xl blur-xl opacity-20 group-hover:opacity-40 transition-opacity duration-500"></div>
                 <Image
-                  src="/images/raquel-3.jpeg"
+                  src="/images/placeholder.svg"
                   alt="Dra. Raquel Aguiar com pet"
                   width={350}
                   height={420}
                   className="relative rounded-3xl shadow-2xl object-cover w-full h-56 sm:h-72 md:h-80 lg:h-96 transform group-hover:scale-105 transition-transform duration-500"
                 />
+                {/* <Image
+                  src="/images/raquel-3.jpeg"
+                  alt="Dra. Raquel Aguiar com pet"
+                  width={350}
+                  height={420}
+                  className="relative rounded-3xl shadow-2xl object-cover w-full h-56 sm:h-72 md:h-80 lg:h-96 transform group-hover:scale-105 transition-transform duration-500"
+                /> */}
                 <div className="absolute top-4 left-4 bg-gradient-to-r from-white/95 to-emerald-50/95 backdrop-blur-sm p-3 rounded-2xl shadow-lg border border-emerald-200">
                   <div className="flex items-center space-x-2">
                     <Heart className="h-4 w-4 text-rose-500 animate-pulse" />
