@@ -100,7 +100,7 @@ export default function VetEmCasa() {
               <PawPrint className="absolute -top-1 -right-1 h-3 w-3 sm:h-4 sm:w-4 text-teal-400 animate-bounce" />
             </div>
             <span className="text-lg sm:text-xl md:text-2xl font-bold bg-gradient-to-r from-emerald-600 via-teal-600 to-cyan-600 bg-clip-text text-transparent animate-gradient">
-              Vet em Casa
+              Raquel&VetLar
             </span>
           </div>
 
@@ -900,7 +900,7 @@ export default function VetEmCasa() {
                   <PawPrint className="h-3 w-3 sm:h-4 sm:w-4 text-teal-400 absolute -top-1 -right-1 animate-bounce" />
                 </div>
                 <span className="text-lg sm:text-xl md:text-2xl font-bold bg-gradient-to-r from-emerald-400 to-teal-400 bg-clip-text text-transparent">
-                  Vet em Casa
+                  Raquel&VetLar
                 </span>
               </div>
               <p className="text-gray-300 mb-6 leading-relaxed text-xs sm:text-sm">
@@ -977,7 +977,7 @@ export default function VetEmCasa() {
 
           <div className="border-t border-gray-700 mt-8 pt-6 text-center text-gray-400 text-xs sm:text-sm">
             <p>
-              &copy; 2024 Vet em Casa - Dra. Raquel Aguiar. Todos os direitos reservados.
+              &copy; 2024 Raquel&VetLar - Dra. Raquel Aguiar. Todos os direitos reservados.
               <span className="animate-pulse ml-2">✨</span>
             </p>
           </div>
