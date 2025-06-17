@@ -15,11 +15,11 @@ export const metadata: Metadata = {
   authors: [{ name: 'Raquel Aguiar' }],
   creator: 'Raquel Aguiar',
   publisher: 'Raquel&VetLar',
-  metadataBase: new URL('https://raquelevetlar.store/'), 
+  metadataBase: new URL('https://vetemcasabelem.com'), 
   openGraph: {
     title: 'Raquel&VetLar | Atendimento Veterinário em Domicílio',
     description: 'Veterinária domiciliar em Belém e Ananindeua. Cuidados profissionais no conforto do seu lar para cães e gatos. Atendimento rápido e emergencial com a Dra. Raquel Aguiar.',
-    url: 'https://raquelevetlar.store/',
+    url: 'https://vetemcasabelem.com',
     siteName: 'Raquel&VetLar',
     locale: 'pt_BR',
     type: 'website',
@@ -32,7 +32,7 @@ export const metadata: Metadata = {
     creator: '@vetemcasabelem',
   },
   alternates: {
-    canonical: 'https://raquelevetlar.store/',
+    canonical: 'https://vetemcasabelem.com',
   },
 }
 
