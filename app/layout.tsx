@@ -3,7 +3,7 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: 'Raquel&VetLar | Dra. Raquel Aguiar',
-  description: 'Atendimento veterinário domiciliar em Belém, Ananindeua e região metropolitana. Cuidados para cães e gatos com rapidez, carinho e responsabilidade. Agende sua consulta via WhatsApp com a Dra. Raquel Aguiar.',
+  description: 'Atendimento veterinário domiciliar em Belém, Ananindeua e região metropolitana...',
   applicationName: 'Raquel&VetLar',
   keywords: [
     'veterinária em Belém', 'veterinária em Ananindeua', 'veterinária domiciliar Belém',
@@ -15,24 +15,35 @@ export const metadata: Metadata = {
   authors: [{ name: 'Raquel Aguiar' }],
   creator: 'Raquel Aguiar',
   publisher: 'Raquel&VetLar',
-  metadataBase: new URL('https://vetemcasabelem.com'), 
+  metadataBase: new URL('https://raquelevetlar.store'),
   openGraph: {
     title: 'Raquel&VetLar | Atendimento Veterinário em Domicílio',
-    description: 'Veterinária domiciliar em Belém e Ananindeua. Cuidados profissionais no conforto do seu lar para cães e gatos. Atendimento rápido e emergencial com a Dra. Raquel Aguiar.',
-    url: 'https://vetemcasabelem.com',
+    description: 'Veterinária domiciliar em Belém e Ananindeua...',
+    url: 'https://raquelevetlar.store',
     siteName: 'Raquel&VetLar',
     locale: 'pt_BR',
     type: 'website',
+    images: [
+      {
+        url: 'https://metasnap.dirrocha.com/screenshot?url=https%3A%2F%2Fraquelevetlar.store%2F',
+        width: 1200,
+        height: 630,
+        alt: 'Preview Raquel&VetLar',
+      },
+    ],
   },
   twitter: {
     card: 'summary_large_image',
     title: 'Raquel&VetLar | Atendimento Veterinário em Belém e Região',
-    description: 'Veterinária para cachorro e gato em domicílio. Atendimento com a Dra. Raquel Aguiar em Belém e Ananindeua. Agende agora.',
+    description: 'Veterinária para cachorro e gato em domicílio...',
     site: '@vetemcasabelem',
     creator: '@vetemcasabelem',
+    images: [
+      'https://metasnap.dirrocha.com/screenshot?url=https%3A%2F%2Fraquelevetlar.store%2F',
+    ],
   },
   alternates: {
-    canonical: 'https://vetemcasabelem.com',
+    canonical: 'https://raquelevetlar.store',
   },
 }
 
